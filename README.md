@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EamonGoldsmith
+- 👀 I’m interested in c
+- 🌱 I’m currently learning c
+- 💞️ I’m looking to collaborate on: dez nutz
+- 📫 How to reach me: yell my name three times into the southern wind
