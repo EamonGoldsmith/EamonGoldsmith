@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EamonGoldsmith
-- 👀 I’m interested in c
-- 🌱 I’m currently learning c
-- 💞️ I’m looking to collaborate on: dez nutz
+- 👋 Hi, I’m @EamonGoldsmith (w o h)
+- 👀 I’m interested in Desktop Applications and AI
+- 🌱 I’m currently learning Full stack and backend dev with C
+- 💞️ I’m looking to collaborate on: anything, just looking for more reasons to code
 - 📫 How to reach me: yell my name three times into the southern wind
