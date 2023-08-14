@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EamonGoldsmith (w o h)
-- 👀 I’m interested in Desktop Applications and AI
-- 🌱 I’m currently learning Full stack and backend dev with C
-- 💞️ I’m looking to collaborate on: anything, just looking for more reasons to code
-- 📫 How to reach me: yell my name three times into the southern wind
+- 👀 I’m interested in low level stuff and embedded applications
+- 🌱 I’m currently learning: Rust
+- 💞️ I’m looking to collaborate on: interesting projects in open source and low level code
+- 📫 How to reach me: send me an email at goldsmitheamon@gmail.com
