@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EamonGoldsmith (w o h)
-- 👀 I’m interested in low level stuff and embedded applications
-- 🌱 I’m currently learning: Embedded systems development
-- 💞️ I’m looking to collaborate on: interesting projects in open source and low level code
+- 👀 I’m interested in: Low level stuff and hardware design.
+- 🌱 I’m currently learning: High frequency pcb design for outterspace and mining applications.
+- 💞️ I’m looking to collaborate on: Anything cool.
 - 📫 How to reach me: send me an email at goldsmitheamon@gmail.com
 
 - Check out my projects at https://www.goldsmitheamon.xyz
